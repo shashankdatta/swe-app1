@@ -4,4 +4,4 @@
 
 ## Links
 1. [AWS EB Site](http://django-env.eba-kvvffhkp.us-west-2.elasticbeanstalk.com/polls)
-2. [Github Source](https://github.com/shashankdatta/swe-app1.git)
+2. [GitHub Source](https://github.com/shashankdatta/swe-app1.git)

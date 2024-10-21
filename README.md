@@ -9,12 +9,15 @@
 
 ## Coverage
 With `&&service`
+
 [![Coverage Status](https://coveralls.io/repos/github/shashankdatta/swe-app1/badge.svg?branch=main&&service=github)](https://coveralls.io/github/shashankdatta/swe-app1?branch=main)
 
 Without `&&service`
+
 [![Coverage Status](https://coveralls.io/repos/github/shashankdatta/swe-app1/badge.svg?branch=main)](https://coveralls.io/github/shashankdatta/swe-app1?branch=main)
 
 Without `branch` and `&&service`
+
 [![Coverage Status](https://coveralls.io/repos/github/shashankdatta/swe-app1/badge.svg)](https://coveralls.io/github/shashankdatta/swe-app1?branch=main)
 
 ## Links

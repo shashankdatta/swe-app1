@@ -18,10 +18,10 @@ pip
 platformdirs
 pycodestyle
 pyflakes
+PyYAML
 requests
 setuptools
 sqlparse
 typing_extensions
 urllib3
 wheel
-PyYAML

@@ -24,6 +24,6 @@ deploy:
   env: django-mysite-dev
   bucket_name: elasticbeanstalk-us-west-2-241533117542
   on:
-    repo: shashankdatta/swe1-app
+    repo: shashankdatta/swe-app1
     branch: main
   skip_cleanup: 'true'
